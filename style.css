@@ -1,5 +1,13 @@
+html {
+    height: 100%;
+}
+
 body {
     background-color: #2F3035;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .container {
@@ -39,6 +47,11 @@ h1 {
 
 p {
     font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
