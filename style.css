@@ -1,4 +1,25 @@
-h1 {
-    color:red;
-    font-size: 22px;
+.container {
+    margin-left:auto;
+    margin-right:auto;
+    width: 1024px;
+}
+
+header {
+    background-color:blue;
+    height:118px;
+}
+
+nav {
+    background-color:red;
+    height:118px;
+}
+
+main {
+    background-color:green;
+    height:118px;
+}
+
+footer {
+    background-color:greenyellow;
+    height:118px;
 }
